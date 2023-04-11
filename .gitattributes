@@ -1,0 +1,14 @@
+*.html linguist-detectable=false
+*.cpp linguist-detectable=false
+*.c linguist-detectable=false
+*.swift linguist-detectable=false
+*.txt linguist-detectable=false
+*.cmake linguist-detectable=false
+*.cc linguist-detectable=false
+*.h linguist-detectable=false
+*.podspec linguist-detectable=false
+*.m linguist-detectable=false
+*.kt linguist-detectable=false
+*.js linguist-detectable=false
+*.cs linguist-detectable=false
+*Podfile linguist-detectable=false
